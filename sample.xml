@@ -1,0 +1,16 @@
+<company>
+    <version>"1.0"</version>
+    <name>GeeksForGeeks</name>
+    <staff id="1">
+        <name>Amar Pandey</name>
+        <salary>8.5 LPA</salary>
+    </staff>
+    <staff id="2">
+        <name>Akbar Khan</name>
+        <salary>6.5 LPA</salary>
+    </staff>
+    <staff id="3">
+        <name>Anthony Walter</name>
+        <salary>3.2 LPA</salary>
+    </staff>
+</company>

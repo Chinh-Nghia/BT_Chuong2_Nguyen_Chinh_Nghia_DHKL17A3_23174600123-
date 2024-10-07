@@ -1,0 +1,7 @@
+<company>
+    <name>Tên Công Ty ABC</name>
+    <director>Nguyễn Văn A</director>
+    <address>123 Đường ABC, Quận XYZ, Thành phố HCM</address>
+    <phone>0123-456-789</phone>
+    <tax_id>1234567890</tax_id>
+</company>
